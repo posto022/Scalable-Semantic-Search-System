@@ -13,4 +13,10 @@ The primary goals of this project are to:
     - Explore the tradeoff between search efficiency (cost) and search accuracy (quality).
     - Analyze how design decisions (e.g., partition size, insertion order) affect system performance.
 
+# Current Status
+- Core system implementation: Complete
+- Distributed ingestion and routing: Working (With minor adjustments for needed for Linux systems -> Debugging)
+- Dynamic repartitioning: Verified
+- Experimental evaluation and write up: In progress
+- 
 [More information found in WRITEUP.md within project2]
