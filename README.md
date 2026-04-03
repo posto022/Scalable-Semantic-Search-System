@@ -18,5 +18,5 @@ The primary goals of this project are to:
 - Distributed ingestion and routing: Working (With minor adjustments for needed for Linux systems -> Debugging)
 - Dynamic repartitioning: Verified
 - Experimental evaluation and write up: In progress
-- 
+  
 [More information found in WRITEUP.md within project2]
