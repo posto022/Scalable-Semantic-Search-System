@@ -1,4 +1,4 @@
-# Distributed Semantic KV Store [IN PROGRESS - To be completed by Apr 6th, 2026]
+# Distributed Semantic KV Store 
 - Alexandra Postolaki (posto022)
 - Takuya Paipoovong (paipo001)
 
