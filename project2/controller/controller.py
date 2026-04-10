@@ -8,7 +8,7 @@ from utils.config import CONTROLLER_PORT, NODE_PORT
 from utils.utils import choose_closest_node, create_storage_node
 
 
-MAX_VECTORS_PER_NODE = 2000
+MAX_VECTORS_PER_NODE = 1000
 
 
 class ControllerService(project2_pb2_grpc.ControllerServiceServicer):

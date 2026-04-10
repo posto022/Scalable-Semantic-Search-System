@@ -4,6 +4,7 @@ import threading
 from concurrent import futures
 
 import grpc
+# from project2.proto.src.project2_pb2 import *
 from project2_pb2 import *
 import project2_pb2_grpc
 from utils.utils import cosine_similarity, update_centroid, local_top_k, kmeans_split
